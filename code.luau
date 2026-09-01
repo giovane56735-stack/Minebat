@@ -25,4 +25,4 @@ local function type(name, state, _input)
 
     cta:BindAction("send", type, true, Enum.KeyCode.X)
 cta:SetImage("send", "rbxassetid://14863615161")
-cta:SetPosition("send", UDim2.new(0.3, 0, -0.076, 0))
+cta:SetPosition("send", UDim2.new(0.5, 0, 0, 0))
