@@ -1,0 +1,2 @@
+# Minebat
+Minebat bot script
