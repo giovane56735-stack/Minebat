@@ -24,4 +24,5 @@ local function type(name, state, _input)
     end
 
     cta:BindAction("send", type, true, Enum.KeyCode.X)
---end bigga
+cta:SetImage("send", "rbxassetid://14863615161")
+cta:SetPosition("send", UDim2.new(0.3, 0, -0.076, 0))
